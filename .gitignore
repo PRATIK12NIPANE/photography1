@@ -1,0 +1,26 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode
+.idea
+
+# Logs
+*.log
+error_log
+
+# Database files
+*.db
+*.sqlite
+
+# Vendor directories
+vendor/
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cache
+cache/
